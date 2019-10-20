@@ -1,0 +1,2 @@
+preco = ['mamao', 'banana']
+

@@ -1,0 +1,1 @@
+SELECT name , char_length(name) AS length FROM people order by length desc;

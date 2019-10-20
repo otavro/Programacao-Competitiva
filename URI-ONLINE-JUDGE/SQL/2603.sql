@@ -1,0 +1,1 @@
+SELECT customers.name , customers.street from customers WHERE customers.city = 'Porto Alegre';

@@ -21,7 +21,7 @@ int main()
         for(int i =0; i<c; i++)
         {
             tam += comp(notas[i]);
-            printf("");//POR ALGUM MOTIVO QUANDO DELETA O PRINTF O CODIGO NÃO FUNCIONA
+            //printf("");//POR ALGUM MOTIVO QUANDO DELETA O PRINTF O CODIGO NÃO FUNCIONA
             if(notas[i]=='/')
             {
                 if(tam==64)

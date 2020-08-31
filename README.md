@@ -1,2 +1,2 @@
 # Programacao-Competitiva
-Minhas soluções em questões de programação :D
+Minhas soluções em questões de programação.
